@@ -1,0 +1,10 @@
+This is a fictional weather-data export.
+The first six rows are skipped by the default notebook settings.
+Column 0 is datetime.
+Column 1 is temperature in degrees Celsius.
+Column 4 is wind speed in metres per second.
+Values below are dummy data only.
+2025/04/27 08:00:00,25.0,,,1.5
+2025/04/27 12:00:00,31.0,,,2.0
+2025/04/27 13:00:00,32.0,,,3.1
+2025/04/27 18:00:00,30.3,,,2.3

@@ -1,0 +1,3 @@
+video_path,filename,video_datetime,weather_datetime,temperature_c,wind_speed_m_s,time_difference_minutes
+20250427AM/CAM1_20250427_120500.mp4,CAM1_20250427_120500.mp4,2025-04-27 12:05:00,2025-04-27 12:00:00,31.0,2.0,5.0
+20250427PM/CAM1-20250427-175800.mp4,CAM1-20250427-175800.mp4,2025-04-27 17:58:00,2025-04-27 18:00:00,30.3,2.3,2.0
