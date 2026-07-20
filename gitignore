@@ -1,0 +1,19 @@
+# Input and output data
+data/
+results/
+output_clips/
+matched_videos.csv
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
