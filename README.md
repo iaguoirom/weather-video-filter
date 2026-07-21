@@ -86,7 +86,7 @@ CAM1_20250427085800.mp4
 
 ## 入出力形式のサンプル
 
-[`examples/`](examples/) には、実在の動画・気象データを含まないダミーのCSVを置いています。
+[`examples/`](examples_upload/examples/)には、実在の動画・気象データを含まないダミーのCSVを置いています。
 
 - `sample_weather.csv`：デフォルト設定で読める気象CSVの列構成
 - `sample_sunrise_sunset_04.csv`：日の出・日没CSVの形式
