@@ -4,7 +4,7 @@
 
 固定カメラで大量に撮影した動画から、気温・風速・時間帯などの時系列データを使って、目視確認する候補を絞り込む用途を想定しています。
 
-> English summary: Jupyter notebooks for filtering timestamped videos using weather conditions, and for exporting short review clips. They only read source videos and never copy, move, or delete them.
+> Jupyter notebooks for filtering timestamped videos using weather conditions, and for exporting short review clips. They only read source videos and never copy, move, or delete them.
 
 ## 含まれるノートブック
 
